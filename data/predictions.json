@@ -34,6 +34,27 @@
       "status": "pending",
       "notes": "",
       "container": "available-picks"
+    },
+    {
+      "id": "eb6666f8-e86d-4b0c-add4-af69e7f684fa",
+      "text": "The new merger law will NOT go into effect for some reason.",
+      "status": "pending",
+      "notes": "",
+      "container": "available-picks"
+    },
+    {
+      "id": "da33bab0-7b9d-473c-a3ad-7a0926a6a65a",
+      "text": "The first merger decided under the new regime (transitionary arrangements) will be cleared.",
+      "status": "pending",
+      "notes": "",
+      "container": "available-picks"
+    },
+    {
+      "id": "6511516f-819b-4d7f-bbfd-582aafb88cc7",
+      "text": "The first merger decided under the new regime (transitionary arrangements) will not be cleared.",
+      "status": "pending",
+      "notes": "",
+      "container": "available-picks"
     }
   ],
   "people": [
