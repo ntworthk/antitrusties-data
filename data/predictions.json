@@ -1,6 +1,29 @@
 {
   "predictions": [
+    {
+      "id": "f6b79890-553d-4469-aa7a-2454b02a1080",
+      "text": "The ACCC will not bring a s46 case to the Federal Court in 2025.",
+      "status": "pending",
+      "notes": "",
+      "container": "available-picks"
+    }
   ],
   "people": [
+    {
+      "id": "97cd4efb-0862-4d26-99b7-c95d111f2fb2",
+      "name": "Nick"
+    },
+    {
+      "id": "8512b3ac-15bb-4193-9864-54302df90617",
+      "name": "Luke"
+    },
+    {
+      "id": "2c99755f-5ae1-46fd-ae10-441c431129fb",
+      "name": "Zoe"
+    },
+    {
+      "id": "4708e847-231f-48ba-acb4-f1a73ea8c0ed",
+      "name": "Greg"
+    }
   ]
 }
