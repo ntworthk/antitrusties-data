@@ -3,7 +3,7 @@
     {
       "id": "f6b79890-553d-4469-aa7a-2454b02a1080",
       "text": "The ACCC will not bring a s46 case to the Federal Court in 2025.",
-      "status": "pending",
+      "status": "incorrect",
       "notes": "",
       "container": "available-picks"
     },
@@ -87,7 +87,7 @@
     {
       "id": "162d78b7-28d5-4578-8a8c-d92376a34938",
       "text": "Apple succeeds in Epic v Apple on all infringments.",
-      "status": "pending",
+      "status": "correct",
       "notes": "",
       "container": "available-picks"
     }
