@@ -6,6 +6,34 @@
       "status": "pending",
       "notes": "",
       "container": "available-picks"
+    },
+    {
+      "id": "31537e00-8ef9-4925-bfdc-478eec1c5a8d",
+      "text": "The ACCC will bring a s46 case to the Federal Court in 2025.",
+      "status": "pending",
+      "notes": "",
+      "container": "available-picks"
+    },
+    {
+      "id": "1540cf9a-b162-4322-b2a5-9f015e1375fd",
+      "text": "The Digital Platform Services Inquiry will be extended past its March 2025 final report.",
+      "status": "pending",
+      "notes": "",
+      "container": "available-picks"
+    },
+    {
+      "id": "af68eb2b-8ed7-408e-9840-02e398d75f1e",
+      "text": "Meta will publicly strike at least one deal with a news media publisher in Australia.",
+      "status": "pending",
+      "notes": "",
+      "container": "available-picks"
+    },
+    {
+      "id": "5417ec81-23b3-4355-8584-9a0fd483b956",
+      "text": "Meta will not publicly strike any deals with news media publishers in Australia.",
+      "status": "pending",
+      "notes": "",
+      "container": "available-picks"
     }
   ],
   "people": [
