@@ -55,6 +55,20 @@
       "status": "pending",
       "notes": "",
       "container": "available-picks"
+    },
+    {
+      "id": "bc830bd1-686c-4dbf-ad40-dbdd30b4ec9b",
+      "text": "Alcohol retail will be a designated industry for mandatory merger notification.",
+      "status": "pending",
+      "notes": "",
+      "container": "available-picks"
+    },
+    {
+      "id": "84f79a1a-bf4f-41cd-8bc4-1cbbed57900f",
+      "text": "There will be a 'digital platforms' designated industry for mandatory merger notification.",
+      "status": "pending",
+      "notes": "",
+      "container": "available-picks"
     }
   ],
   "people": [
