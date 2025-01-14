@@ -17,9 +17,9 @@
     {
       "id": "7ba7b810-9dad-11d1-80b4-00c04fd430c9",
       "text": "Housing starts will decline 10% YoY",
-      "status": "incorrect",
+      "status": "correct",
       "notes": "Housing market showed unexpected resilience",
-      "container": "10a7b810-9dad-11d1-80b4-00c04fd430c8"
+      "container": "9ba7b810-9dad-11d1-80b4-00c04fd430c8"
     }
   ],
   "people": [
